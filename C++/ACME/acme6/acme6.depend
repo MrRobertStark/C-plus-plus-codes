@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1583062781 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme6\main.cpp
+	<iostream>
+	"Punt2D.h"
+	"Cercle.h"
+
+1583062942 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme6\punt2d.cpp
+	"Punt2D.h"
+
+1583062781 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme6\punt2d.h
+	<iostream>
+	<cmath>
+
+1583062782 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme6\cercle.cpp
+	"Cercle.h"
+
+1583062782 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme6\cercle.h
+	<iostream>
+	<cmath>
+	"Punt2D.h"
+

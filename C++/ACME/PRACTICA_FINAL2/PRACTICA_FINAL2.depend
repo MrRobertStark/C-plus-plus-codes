@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1589044636 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\canco.cpp
+	"Canco.h"
+
+1588955364 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\canco.h
+	"Durada.h"
+	<limits>
+	<fstream>
+	<string>
+
+1589045806 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\gestor.cpp
+	"Gestor.h"
+	<windows.h>
+	<shellapi.h>
+
+1588958874 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\gestor.h
+	"Llista_Reproduccions.h"
+	"Historial.h"
+	"TaulaCancons.h"
+	<iostream>
+	<fstream>
+	<limits>
+
+1588952240 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\historial.cpp
+	"Historial.h"
+
+1588952246 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\historial.h
+	"Canco.h"
+
+1588951914 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\llista_reproduccions.cpp
+	"Llista_Reproduccions.h"
+
+1588951914 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\llista_reproduccions.h
+	<iostream>
+	"Canco.h"
+
+1588960536 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\main.cpp
+	<iostream>
+	<fstream>
+	"Gestor.h"
+
+1589045806 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\taulacancons.cpp
+	"TaulaCancons.h"
+
+1588957374 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\taulacancons.h
+	<fstream>
+	<iostream>
+	"Canco.h"
+
+1588343652 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\durada.cpp
+	"Durada.h"
+
+1588343652 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\practica_final2\durada.h
+	<fstream>
+	<iostream>
+

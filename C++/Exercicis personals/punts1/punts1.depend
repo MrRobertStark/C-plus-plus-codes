@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582477167 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\punts1\main.cpp
+	<iostream>
+	"Punt2D.h"
+
+1582476418 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\punts1\punt2d.h
+
+1582477119 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\punts1\punt2d.cpp
+	"Punt2D.h"
+	<iostream>
+	<cmath>
+

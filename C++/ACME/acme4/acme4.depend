@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582580132 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme4\punt3d.cpp
+	"Punt3D.h"
+	<iostream>
+
+1582580004 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme4\punt3d.h
+
+1582653596 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme4\main.cpp
+	<iostream>
+	"Punt3D.h"
+

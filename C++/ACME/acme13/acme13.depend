@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1586198426 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\data.cpp
+	"Data.h"
+
+1586198362 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\data.h
+	<iostream>
+
+1586212319 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\esdeveniment.cpp
+	"Esdeveniment.h"
+
+1586212319 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\esdeveniment.h
+	<iostream>
+	"Hora.h"
+	"Data.h"
+
+1586198650 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\hora.cpp
+	"Hora.h"
+
+1586198362 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\hora.h
+	<iostream>
+
+1586206928 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\main.cpp
+	<iostream>
+	"AgendaDinamica.h"
+	"Hora.h"
+	"Data.h"
+	"Esdeveniment.h"
+	<string>
+	<limits>
+
+1586264424 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\agendadinamica.cpp
+	"AgendaDinamica.h"
+
+1586263231 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme13\agendadinamica.h
+	"Esdeveniment.h"
+	"Data.h"
+	"Hora.h"
+	<iostream>
+

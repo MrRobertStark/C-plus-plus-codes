@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574094846 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\complements\pràctiques de laboratori\sequencies_ii(1)\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

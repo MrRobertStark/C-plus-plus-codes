@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1583002302 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\main.cpp
+	<iostream>
+	"Esdeveniment.h"
+	"Data.h"
+	"Hora.h"
+
+1583001594 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\esdeveniment.cpp
+	"Esdeveniment.h"
+
+1583002763 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\esdeveniment.h
+	<iostream>
+	"Data.h"
+	"Hora.h"
+
+1583002763 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\data.h
+	<iostream>
+
+1583000395 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\hora.h
+	<iostream>
+
+1583003032 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\data.cpp
+	"Data.h"
+
+1583003032 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme5\hora.cpp
+	"Hora.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1587568846 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\main.cpp
+	<iostream>
+	"TaulaCancons.h"
+	"Canco.h"
+	"Durada.h"
+	<fstream>
+	<limits>
+
+1587569028 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\canco.cpp
+	"Canco.h"
+	"Durada.h"
+
+1587567011 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\canco.h
+	<iostream>
+	<fstream>
+	<string>
+	"Durada.h"
+	<limits>
+
+1587556835 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\durada.h
+	<iostream>
+	<fstream>
+	<string>
+
+1587557624 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\durada.cpp
+	"Durada.h"
+
+1587567894 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\taulacancons.cpp
+	"TaulaCancons.h"
+
+1587567011 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme16\taulacancons.h
+	"Durada.h"
+	"Canco.h"
+	<iostream>
+	<string>
+

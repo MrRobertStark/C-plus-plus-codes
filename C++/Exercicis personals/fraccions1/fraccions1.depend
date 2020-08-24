@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582660511 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\fraccions1\main.cpp
+	<iostream>
+	"Fraccions.h"
+
+1582660441 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\fraccions1\fraccions.h
+
+1582660739 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\fraccions1\fraccions.cpp
+	"Fraccions.h"
+	<iostream>
+	<cmath>
+

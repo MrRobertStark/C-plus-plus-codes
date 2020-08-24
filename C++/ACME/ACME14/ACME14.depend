@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587230151 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme14\durada.cpp
+	"Durada.h"
+
+1587230151 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme14\durada.h
+	<iostream>
+
+1587229907 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme14\main.cpp
+	<iostream>
+	"Durada.h"
+

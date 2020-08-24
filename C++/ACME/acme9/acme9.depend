@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1585058828 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\gloria.cpp
+	"Gloria.h"
+
+1584988960 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\gloria.h
+	<iostream>
+	"Informe.h"
+	<string>
+
+1584982597 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\hora.cpp
+	"Hora.h"
+
+1584982597 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\hora.h
+	<iostream>
+
+1585058441 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\informe.cpp
+	"Informe.h"
+
+1584983771 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\informe.h
+	<limits>
+	<iostream>
+	"Vent.h"
+	<string>
+
+1584982765 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\main.cpp
+	<iostream>
+	"Gloria.h"
+
+1584982598 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\vent.cpp
+	"Vent.h"
+
+1584982597 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\vent.h
+	"Hora.h"
+	"Data.h"
+
+1584982597 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\data.cpp
+	"Data.h"
+
+1584982597 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme9\data.h
+	<iostream>
+

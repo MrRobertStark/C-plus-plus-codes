@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1584357471 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Vector_paraules.h"
+	"Vector_abecedari.h"
+
+1584356939 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\paraula.cpp
+	"Paraula.h"
+
+1584301130 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\paraula.h
+	<iostream>
+	<fstream>
+
+1584355698 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\vector_abecedari.cpp
+	"Vector_abecedari.h"
+
+1584355698 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\vector_abecedari.h
+
+1584357122 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\vector_paraules.cpp
+	"Vector_paraules.h"
+
+1584353817 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme8(3)\vector_paraules.h
+	<iostream>
+	"Paraula.h"
+	"Vector_abecedari.h"
+

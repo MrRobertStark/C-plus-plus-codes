@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1582736357 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\exercici_rectangles1\main.cpp
+	<iostream>
+	"Punt2D.h"
+	"Rectangle.h"
+
+1582736232 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\exercici_rectangles1\punt2d.h
+
+1582733816 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\exercici_rectangles1\rectangle.h
+	"Punt2D.h"
+
+1582736233 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\exercici_rectangles1\punt2d.cpp
+	"Punt2D.h"
+	<iostream>
+
+1582736250 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\exercicis personals\exercici_rectangles1\rectangle.cpp
+	"Rectangle.h"
+	"Punt2D.h"
+	<iostream>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1585350745 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\main.cpp
+	<iostream>
+	"Hora.h"
+	"CuaComanda.h"
+
+1585404770 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\hora.cpp
+	"Hora.h"
+
+1585402659 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\hora.h
+	<iostream>
+
+1585405956 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\cuacomanda.cpp
+	"CuaComanda.h"
+
+1585405144 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\cuacomanda.h
+	"Comanda.h"
+
+1585402659 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\comanda.h
+	<iostream>
+	"Hora.h"
+	<limits>
+
+1585402659 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme12\comanda.cpp
+	"Comanda.h"
+

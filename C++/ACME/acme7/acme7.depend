@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1583957992 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\agenda.cpp
+	"Agenda.h"
+
+1583952343 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\agenda.h
+	"Esdeveniment.h"
+
+1583957882 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\data.cpp
+	"Data.h"
+
+1583792255 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\data.h
+	<iostream>
+
+1583958165 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\esdeveniment.cpp
+	"Esdeveniment.h"
+
+1583958165 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\esdeveniment.h
+	<iostream>
+	"Data.h"
+	"Hora.h"
+	<string>
+
+1583692123 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\main.cpp
+	<iostream>
+	"Agenda.h"
+	"Hora.h"
+	"Data.h"
+	"Esdeveniment.h"
+
+1583957768 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\hora.cpp
+	"Hora.h"
+
+1583951061 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme7\hora.h
+	<iostream>
+	<cmath>
+

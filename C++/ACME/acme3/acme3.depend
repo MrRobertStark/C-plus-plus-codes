@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582573479 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme3\main.cpp
+	<iostream>
+	"Data.h"
+
+1582573267 c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme3\data.h
+	<string>
+
+1582573276 source:c:\users\mrrob\documents\udg\1er curs\metodologia i tecnologia de la programació\quad 2\programes\acme\acme3\data.cpp
+	"Data.h"
+	<string>
+	<iostream>
+
